@@ -11,7 +11,7 @@
 sudo apt install nasm
 ```
 
-### [QEMU](https://www.qemu.org/) A generic and open source machine emulator and virtualizer
+### [QEMU](https://www.qemu.org/) A generic and open source machine emulator and virtualizer.
 
 ```
 sudo apt install qemu-system-x86
@@ -23,5 +23,14 @@ sudo apt install qemu-system-x86
 ```
 sudo apt install bless
 ```
+
 ---
+
+
+<div align="center">
+	<img src="https://github.com/user-attachments/assets/d61ec2cc-4f55-4ab3-919c-8d0e4afb387e">
+</div>
+
+---
+
 
