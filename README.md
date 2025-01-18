@@ -7,6 +7,9 @@
 
 ### [flatassembler ](https://flatassembler.net/) Flat assembler (FASM) is a free, open-source assembly language compiler for x86 processors. It's used to create small, efficient executable files for operating systems, games, and embedded systems.
 
+```bash
+sudo apt install fasm
+```
 
 
 ### [nasm](https://en.wikipedia.org/wiki/Netwide_Assembler) The Netwide Assembler, NASM, is an 80x86 assembler designed for portability and modularity.
