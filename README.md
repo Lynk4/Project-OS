@@ -40,14 +40,13 @@ sudo apt install bless
 ---
 
 ###  SEQUENCE...
-
-### - [1. Boot Sector](https://github.com/Lynk4/Project-OS/tree/main/Boot%20Sector)
-### - [2. Boot Sector 2 | Include Files & Hex Printing](https://github.com/Lynk4/Project-OS/tree/main/Boot%20Sector%202)
-### - [3. Bootloader](https://github.com/Lynk4/Project-OS/tree/main/Bootloader)
-### - [4. OS Dev - 1 | Getting User Input ](https://github.com/Lynk4/Project-OS/tree/main/OS%20Dev%20-%201)
-### - [5. OS Dev - 2 | Warm Reboot ](https://github.com/Lynk4/Project-OS/tree/main/OS%20Dev%20-%202)
 ---
 
-
-
-
+| 1.  | **[Boot Sector](https://github.com/Lynk4/Project-OS/tree/main/Boot%20Sector)**                                       |
+| --- | :------------------------------------------------------------------------------------------------------------------- |
+| 2.  | **[Boot Sector 2 \| Include Files & Hex Printing](https://github.com/Lynk4/Project-OS/tree/main/Boot%20Sector%202)** |
+| 3.  | **[Bootloader](https://github.com/Lynk4/Project-OS/tree/main/Bootloader)**                                           |
+| 4.  | **[OS Dev - 1 \| Getting User Input ](https://github.com/Lynk4/Project-OS/tree/main/OS%20Dev%20-%201)**              |
+| 5.  | **[OS Dev - 2 \| Warm Reboot ](https://github.com/Lynk4/Project-OS/tree/main/OS%20Dev%20-%202)**                     |
+| 6.  | **[OS Dev -3 \| String Refactor, Menu Looping](https://github.com/Lynk4/Project-OS/tree/main/OS%20Dev%20-%203)**     |
+|     |                                                                                                                      |
