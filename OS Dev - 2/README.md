@@ -1,7 +1,7 @@
 # Warm Reboot
 
 ---
-### Makefile is located in ```Project-OS/OS Dev - 1/bin```
+### Makefile is located in ```Project-OS/OS Dev - 2/bin```
 
 ---
 
