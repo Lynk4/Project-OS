@@ -49,7 +49,7 @@ sudo apt install bless
 | 4.  | **[OS Dev - 1 \| Getting User Input ](https://github.com/Lynk4/Project-OS/tree/main/OS%20Dev%20-%201)**                         |
 | 5.  | **[OS Dev - 2 \| Warm Reboot ](https://github.com/Lynk4/Project-OS/tree/main/OS%20Dev%20-%202)**                                |
 | 6.  | **[OS Dev -3 \| String Refactor, Menu Looping](https://github.com/Lynk4/Project-OS/tree/main/OS%20Dev%20-%203)**                |
-| 7.  | **[OS Dev - 4 \| Print Registers, GFX Mode, Loading Programs](https://github.com/Lynk4/Project-OS/tree/main/OS%20DEV%20-%204)** |
+| 7.  | **[OS Dev - 4 \| Print Registers, GFX Mode, Loading Programs](https://github.com/Lynk4/Project-OS/tree/main/OS%20Dev%20-%204)** |
 
 ---
 
