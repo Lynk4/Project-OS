@@ -51,6 +51,8 @@ sudo apt install bless
 | 6.  | **[OS Dev -3 \| String Refactor, Menu Looping](https://github.com/Lynk4/Project-OS/tree/main/OS%20Dev%20-%203)**                |
 | 7.  | **[OS Dev - 4 \| Print Registers, GFX Mode, Loading Programs](https://github.com/Lynk4/Project-OS/tree/main/OS%20Dev%20-%204)** |
 | 8.  | **[OS Dev - 5 \| File Table ](https://github.com/Lynk4/Project-OS/tree/main/OS%20Dev%20-%205)**                                 |
+| 9.  | **[OS Dev - 6 \| Basic shell ](https://github.com/Lynk4/Project-OS/tree/main/OS%20Dev%20-%206)**                                 |
+
 
 ---
 
